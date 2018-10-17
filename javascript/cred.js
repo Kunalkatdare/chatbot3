@@ -1,11 +1,11 @@
 var apigClient = apigClientFactory.newClient();
 
 var apigClient = apigClientFactory.newClient({
-  accessKey: "AKIAIMBCT7C3M5QCCGGA",
-  secretKey: "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"
+  accessKey: "",
+  secretKey: ""
 });
 
-var API_KEY = "vpEIYVEiJQ4W4EjmlNP8d6jP0HwaAZEWaVuJD30Q";
+var API_KEY = "";
 
 var apigClient = apigClientFactory.newClient({
   apiKey: API_KEY
