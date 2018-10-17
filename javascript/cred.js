@@ -20,7 +20,7 @@ var params = {
 
 var additionalParams = {
   // If there are any unmodeled query parameters or headers that must be
-  //   sent with the request, add them here.
+  //   sent with the request, add them here
   //   headers: {
   //     "Access-Control-Allow-Origin": "*"
   //   }
