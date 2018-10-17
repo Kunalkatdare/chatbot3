@@ -1,4 +1,4 @@
-# chatbot3
+# chatbot
 A simple chatbot which uses AWS services like Lambda, API Gateway, S3
 # Prerequisites
 For the JavaScript SDK to work your APIs need to support CORS. The Amazon API Gateway developer guide explains how to [setup CORS for an endpoint]().
